@@ -244,7 +244,7 @@ class Tabelog:
             self.count_to_save = 0
         return
 
-if if __name__ == "__main__":
+if __name__ == "__main__":
     stations = ["sugamo"]
     url_station = [
         "https://tabelog.com/tokyo/A1323/A132301/R5376/rstLst/",
